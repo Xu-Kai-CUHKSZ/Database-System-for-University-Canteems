@@ -1,0 +1,8 @@
+运行需要的包：pip install pymysql faker pandas openpyxl
+
+create.py:创建数据库，记得替换为自己数据库的用户名和密码
+
+data.py:插入数据到数据库，记得替换为自己数据库的用户名和密码
+
+
+
