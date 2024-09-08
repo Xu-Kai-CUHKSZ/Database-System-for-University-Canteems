@@ -1,0 +1,45 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    allen:
+      email: abc@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Allen
+      password: $2b$12$elqkHYM.20rBua67Z8WIvOqeO2SSbUa.cd7H1UmR0a6n1B/kEUm7C
+    barney:
+      email: melasby@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Allen Lin
+      password: $2b$12$9jODzb/WzyUb1kA/Ww53Eef.9n5IMIKrjd18xJ0mhldDwMEEgQTRS
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$YH/RFBeSH/A62V568xznYuuMJKwfSoT6M6weLgmmHJcKvysKvS5y6
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$CmFZ6MXaqHEnAA6M6MHpHuwed93TWai/wh47WFnu18Gc5OViG82/i
+    rumo:
+      email: 3042348797@qq.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Allen Lin
+      password: $2b$12$3tkNi2AK3LDISQfmK4bywudLjP4kra9HlX0gR5sEx5IZQ4CCxsbku
+    t:
+      email: melsb33y@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: T
+      password: $2b$12$wcSvP/LDx/edjZ19whApgOh0m.g2IFeFBQEIsNIP6.SZBG5/6.iPS
+pre-authorized:
+  emails:
+  - melsby@gmail.com
